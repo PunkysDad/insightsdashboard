@@ -1,0 +1,7 @@
+anthropic
+python-dotenv
+fastapi
+uvicorn
+pinecone
+sse-starlette
+httpx
